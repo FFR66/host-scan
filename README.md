@@ -15,10 +15,11 @@
 
 ## 如何使用
 ### 将发现40x的url，放在url.txt中，将收集到的domain全部放在host.txt中
-  <br>
   Rongscan_HostScan.exe -uf .\urls.txt -hf .\hosts.txt -o fkalis.txt
   <br>
-  ![image](https://github.com/FFR66/host-scan/assets/110553194/8459a2a7-4ba2-4147-a7a1-289468d38bf4)
+   
+  ![image](https://github.com/FFR66/host-scan/assets/110553194/d3ca7366-15f9-4e9d-8e91-c12782dd3919)
+
 
 
 <br>
@@ -42,6 +43,8 @@
 
 **运行输出格式为 [+] {status} {url} {host}  -->  {content_length} : {title}**
 ![image](https://github.com/FFR66/host-scan/assets/110553194/1027f1f3-5359-4f6a-946c-60e33d91c254)
+
+<br>
 
 **成功案例**
 ![image](https://github.com/FFR66/host-scan/assets/110553194/c9a47f3e-ac85-4113-bd56-e9c0e77ceee3)
